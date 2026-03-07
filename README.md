@@ -25,16 +25,14 @@
 <li class="list-group-item">🌱 I’m currently learning <b>Master of Computer Application</b></li>
 <li class="list-group-item">👯 I’m looking to collaborate on <b>Food Bill System</b></li>
 <li class="list-group-item">🤝 I’m looking for help with <b>Atfalul Umma Foundation (AUFA)</b></li>
-
-<li class="list-group-item">
-👨‍💻 My Portfolio :
+<li>🤖 Live Dolphin AI Project :
 <a href="https://sage-treacle-49f16a.netlify.app/" target="_blank">
 https://sage-treacle-49f16a.netlify.app/
 </a>
 </li>
 
-<li class="list-group-item">
-🤖 Live Dolphin AI Project :
+< class="list-group-item">
+ 
 <a href="https://frabjous-pasca-21fca6.netlify.app/" target="_blank">
 https://frabjous-pasca-21fca6.netlify.app/
 </a>
